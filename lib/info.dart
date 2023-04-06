@@ -10,6 +10,66 @@ const info = [
     'message' : 'Im fine, and you?',
     'time' : '4:53 PM',
     'profilePic' : 'https://iili.io/HOE4ofn.jpg',
+  },
+  {
+    'name': 'Ridho Suhaebi Arrowi',
+    'message' : 'Hey, how are you doing?',
+    'time' : '3:53 PM',
+    'profilePic' : 'https://iili.io/HOE4qxI.jpg',
+  },
+  {
+    'name': 'Giba Radia',
+    'message' : 'Im fine, and you?',
+    'time' : '4:53 PM',
+    'profilePic' : 'https://iili.io/HOE4ofn.jpg',
+  },
+  {
+    'name': 'Ridho Suhaebi Arrowi',
+    'message' : 'Hey, how are you doing?',
+    'time' : '3:53 PM',
+    'profilePic' : 'https://iili.io/HOE4qxI.jpg',
+  },
+  {
+    'name': 'Giba Radia',
+    'message' : 'Im fine, and you?',
+    'time' : '4:53 PM',
+    'profilePic' : 'https://iili.io/HOE4ofn.jpg',
+  },
+  {
+    'name': 'Ridho Suhaebi Arrowi',
+    'message' : 'Hey, how are you doing?',
+    'time' : '3:53 PM',
+    'profilePic' : 'https://iili.io/HOE4qxI.jpg',
+  },
+  {
+    'name': 'Giba Radia',
+    'message' : 'Im fine, and you?',
+    'time' : '4:53 PM',
+    'profilePic' : 'https://iili.io/HOE4ofn.jpg',
+  },
+  {
+    'name': 'Ridho Suhaebi Arrowi',
+    'message' : 'Hey, how are you doing?',
+    'time' : '3:53 PM',
+    'profilePic' : 'https://iili.io/HOE4qxI.jpg',
+  },
+  {
+    'name': 'Giba Radia',
+    'message' : 'Im fine, and you?',
+    'time' : '4:53 PM',
+    'profilePic' : 'https://iili.io/HOE4ofn.jpg',
+  },
+  {
+    'name': 'Ridho Suhaebi Arrowi',
+    'message' : 'Hey, how are you doing?',
+    'time' : '3:53 PM',
+    'profilePic' : 'https://iili.io/HOE4qxI.jpg',
+  },
+  {
+    'name': 'Giba Radia',
+    'message' : 'Im fine, and you?',
+    'time' : '4:53 PM',
+    'profilePic' : 'https://iili.io/HOE4ofn.jpg',
   }
 ];
 
