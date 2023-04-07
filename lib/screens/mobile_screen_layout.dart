@@ -26,6 +26,13 @@ class MobileScreenLayout extends StatelessWidget {
             IconButton(
               onPressed: () {},
               icon: const Icon(
+                Icons.camera_alt_outlined,
+                color: Colors.grey,
+              ),
+            ),
+            IconButton(
+              onPressed: () {},
+              icon: const Icon(
                 Icons.search,
                 color: Colors.grey,
               ),
@@ -60,6 +67,14 @@ class MobileScreenLayout extends StatelessWidget {
           ),
         ),
         body: const ContactsList(),
+        floatingActionButton: FloatingActionButton(
+          onPressed: () {},
+          backgroundColor: tabColor,
+          child: const Icon(
+            Icons.comment,
+            color: Colors.white,
+          ),
+        ),
       ),
     );
   }
