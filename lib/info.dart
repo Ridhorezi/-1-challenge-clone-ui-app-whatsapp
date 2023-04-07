@@ -81,7 +81,77 @@ const messages = [
   },
   {
     "isMe" : true,
-    "text" : "Hey what is up with you",
+    "text" : "Im fine, and you ?",
     "time" : "11:00 AM",
-  }
+  },
+  {
+    "isMe" : false,
+    "text" : "Hey what is up with you",
+    "time" : "10:00 AM",
+  },
+  {
+    "isMe" : true,
+    "text" : "Im fine, and you ?",
+    "time" : "11:00 AM",
+  },
+  {
+    "isMe" : false,
+    "text" : "Hey what is up with you",
+    "time" : "10:00 AM",
+  },
+  {
+    "isMe" : true,
+    "text" : "Im fine, and you ?",
+    "time" : "11:00 AM",
+  },
+  {
+    "isMe" : false,
+    "text" : "Hey what is up with you",
+    "time" : "10:00 AM",
+  },
+  {
+    "isMe" : true,
+    "text" : "Im fine, and you ?",
+    "time" : "11:00 AM",
+  },
+  {
+    "isMe" : false,
+    "text" : "Hey what is up with you",
+    "time" : "10:00 AM",
+  },
+  {
+    "isMe" : true,
+    "text" : "Im fine, and you ?",
+    "time" : "11:00 AM",
+  },
+  {
+    "isMe" : false,
+    "text" : "Hey what is up with you",
+    "time" : "10:00 AM",
+  },
+  {
+    "isMe" : true,
+    "text" : "Im fine, and you ?",
+    "time" : "11:00 AM",
+  },
+  {
+    "isMe" : false,
+    "text" : "Hey what is up with you",
+    "time" : "10:00 AM",
+  },
+  {
+    "isMe" : true,
+    "text" : "Im fine, and you ?",
+    "time" : "11:00 AM",
+  },
+  {
+    "isMe" : false,
+    "text" : "Hey what is up with you",
+    "time" : "10:00 AM",
+  },
+  {
+    "isMe" : true,
+    "text" : "Im fine, and you ?",
+    "time" : "11:00 AM",
+  },
 ];
